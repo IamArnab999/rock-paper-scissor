@@ -24,7 +24,6 @@ You can view a live game demo [here](https://rock-paper-scissor-arnab-kanti-das-
   - Red background when the computer wins.
   - Gray background when it’s a tie.
 - Real-time score updates for both the user and the computer.
-- Responsive design for various screen sizes.
 - Smooth transitions and visual feedback when clicking.
 
 ## Technologies Used
@@ -37,10 +36,7 @@ You can view a live game demo [here](https://rock-paper-scissor-arnab-kanti-das-
 
 1. Click the respective icon to Choose between Rock, Paper, or Scissors.
 2. The computer will randomly select its choice.
-3. The result will be displayed in the message area with the background color changing based on the outcome:
-   - Green for user victory.
-   - Red for computer victory.
-   - Gray for a tie.
+3. The result will be displayed in the message area with the background color changing based on the outcome.
 4. The scores are updated accordingly.
 
 ## Installation
