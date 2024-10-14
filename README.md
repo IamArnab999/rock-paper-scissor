@@ -14,7 +14,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. This pr
 
 ## Demo
 
-You can view a live game demo [here](#).
+You can view a live game demo [here](https://rock-paper-scissor-arnab-kanti-das-projects.vercel.app/).
 
 ## Features
 
