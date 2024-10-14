@@ -72,3 +72,5 @@ rock-paper-scissors/
 ├── index.html                # Main HTML file
 └── README.md                 # Project documentation
 ```
+
+Feel free to modify the project on your own by forking this.
